@@ -1,0 +1,32 @@
+.logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 5px;
+  position: relative;
+}
+
+.logo .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6.37px;
+  justify-content: center;
+  position: relative;
+}
+
+.logo .exclude-1 {
+  height: 30.44px !important;
+  position: relative !important;
+  width: 30.44px !important;
+}
+
+.logo .tradingjoe {
+  color: var(--black80-base);
+  font-family: "Poppins", Helvetica;
+  font-size: 14.2px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}

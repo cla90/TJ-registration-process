@@ -1,0 +1,229 @@
+.splash {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.splash .div-3 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.splash .card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  left: 30px;
+  position: absolute;
+  top: 484px;
+  width: 330px;
+}
+
+.splash .paragraph-container-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.splash .text-wrapper-2 {
+  align-self: stretch;
+  color: #2e3032;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.splash .p {
+  align-self: stretch;
+  color: var(--black80-base);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.15px;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+}
+
+.splash .text-wrapper-3 {
+  align-self: stretch;
+  color: var(--black80-base);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.08px;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.splash .text-wrapper-4 {
+  align-self: stretch;
+  color: var(--secondary-80);
+  font-family: var(--14-bold-font-family);
+  font-size: var(--14-bold-font-size);
+  font-style: var(--14-bold-font-style);
+  font-weight: var(--14-bold-font-weight);
+  letter-spacing: var(--14-bold-letter-spacing);
+  line-height: var(--14-bold-line-height);
+  position: relative;
+  text-align: center;
+}
+
+.splash .button-primary-2 {
+  flex: 1 !important;
+  white-space: unset !important;
+  width: unset !important;
+}
+
+.splash .button-primary-3 {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.splash .overlap-group-wrapper {
+  height: 270px;
+  left: 1px;
+  position: absolute;
+  top: 164px;
+  width: 389px;
+}
+
+.splash .overlap-group-2 {
+  height: 270px;
+  position: relative;
+}
+
+.splash .rating {
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 389px;
+}
+
+.splash .item-instance {
+  left: 30px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.splash .item-2 {
+  color: var(--danger50-base) !important;
+}
+
+.splash .item-3 {
+  left: 148px !important;
+  position: absolute !important;
+  top: 22px !important;
+}
+
+.splash .item-4 {
+  left: 30px !important;
+  position: absolute !important;
+  top: 134px !important;
+}
+
+.splash .item-5 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 3px 8px #4a556812;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 114px;
+  left: 148px;
+  padding: 20px 10px;
+  position: absolute;
+  top: 156px;
+  width: 94px;
+}
+
+.splash .apple-png {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.splash .paragraph-container-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 47px;
+}
+
+.splash .GOOGL-2 {
+  align-self: stretch;
+  color: #2e3032;
+  font-family: var(--12-medium-font-family);
+  font-size: var(--12-medium-font-size);
+  font-style: var(--12-medium-font-style);
+  font-weight: var(--12-medium-font-weight);
+  letter-spacing: var(--12-medium-letter-spacing);
+  line-height: var(--12-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.splash .element-3 {
+  align-self: stretch;
+  color: var(--success50-base);
+  font-family: var(--10-regular-font-family);
+  font-size: var(--10-regular-font-size);
+  font-style: var(--10-regular-font-style);
+  font-weight: var(--10-regular-font-weight);
+  letter-spacing: var(--10-regular-letter-spacing);
+  line-height: var(--10-regular-line-height);
+  position: relative;
+  text-align: center;
+}
+
+.splash .logo-instance {
+  display: flex !important;
+  height: 36px !important;
+  left: 134px !important;
+  position: absolute !important;
+  top: 55px !important;
+  width: 123px !important;
+}
+
+.splash .logo-wrapper {
+  align-items: center;
+  box-shadow: 0px 4px 4px #00000040;
+  display: inline-flex;
+  gap: 6.8px;
+  left: 888px;
+  overflow: hidden;
+  position: fixed;
+  top: 243px;
+}
+
+.splash .img {
+  flex: 0 0 auto;
+  margin-bottom: -7178.59px;
+  margin-left: -578.59px;
+  position: relative;
+}

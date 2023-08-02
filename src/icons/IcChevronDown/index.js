@@ -1,0 +1,1 @@
+export { IcChevronDown } from "./IcChevronDown";

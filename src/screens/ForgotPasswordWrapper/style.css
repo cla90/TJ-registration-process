@@ -1,0 +1,107 @@
+.forgot-password-wrapper {
+  align-items: center;
+  background-color: var(--backgroundwhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px 20px 0px;
+  position: relative;
+}
+
+.forgot-password-wrapper .forgot-password-3 {
+  align-items: center;
+  background-color: var(--backgroundwhite);
+  border-radius: 30px 30px 0px 0px;
+  box-shadow: 0px -2px 60px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow: hidden;
+  padding: 30px 20px 0px;
+  width: 390px;
+}
+
+.forgot-password-wrapper .element-success-2 {
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+  width: 200px;
+}
+
+.forgot-password-wrapper .frame-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.forgot-password-wrapper .text-wrapper-41 {
+  color: var(--black80-base);
+  font-family: var(--heading-h5-font-family);
+  font-size: var(--heading-h5-font-size);
+  font-style: var(--heading-h5-font-style);
+  font-weight: var(--heading-h5-font-weight);
+  letter-spacing: var(--heading-h5-letter-spacing);
+  line-height: var(--heading-h5-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 335px;
+}
+
+.forgot-password-wrapper .an-email-has-been {
+  color: transparent;
+  font-family: var(--14-medium-font-family);
+  font-size: var(--14-medium-font-size);
+  font-style: var(--14-medium-font-style);
+  font-weight: var(--14-medium-font-weight);
+  letter-spacing: var(--14-medium-letter-spacing);
+  line-height: var(--14-medium-line-height);
+  position: relative;
+  text-align: center;
+  width: 335px;
+}
+
+.forgot-password-wrapper .text-wrapper-42 {
+  color: #aeaeae;
+  font-family: var(--14-medium-font-family);
+  font-size: var(--14-medium-font-size);
+  font-style: var(--14-medium-font-style);
+  font-weight: var(--14-medium-font-weight);
+  letter-spacing: var(--14-medium-letter-spacing);
+  line-height: var(--14-medium-line-height);
+}
+
+.forgot-password-wrapper .text-wrapper-43 {
+  color: #2e3032;
+  font-family: var(--14-medium-font-family);
+  font-size: var(--14-medium-font-size);
+  font-style: var(--14-medium-font-style);
+  font-weight: var(--14-medium-font-weight);
+  letter-spacing: var(--14-medium-letter-spacing);
+  line-height: var(--14-medium-line-height);
+}
+
+.forgot-password-wrapper .button-primary-instance-wrapper {
+  align-items: flex-start;
+  background-color: var(--gray);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  margin-left: -20px;
+  margin-right: -20px;
+  padding: 20px;
+  position: relative;
+  width: 390px;
+}
+
+.forgot-password-wrapper .button-primary-13 {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: unset !important;
+}

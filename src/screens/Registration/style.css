@@ -1,0 +1,110 @@
+.registration {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.registration .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  position: relative;
+  width: 390px;
+}
+
+.registration .text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  left: 38px;
+  position: absolute;
+  top: 132px;
+  width: 315px;
+}
+
+.registration .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.registration .element-success {
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+  width: 200px;
+}
+
+.registration .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.registration .h-1 {
+  color: var(--black80-base);
+  font-family: var(--heading-h3-font-family);
+  font-size: var(--heading-h3-font-size);
+  font-style: var(--heading-h3-font-style);
+  font-weight: var(--heading-h3-font-weight);
+  letter-spacing: var(--heading-h3-letter-spacing);
+  line-height: var(--heading-h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 315px;
+}
+
+.registration .your-account-has {
+  color: var(--black-60);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.08px;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  width: 315px;
+}
+
+.registration .button-primary-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.registration .button-primary-instance {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.registration .navbar-instance {
+  height: 56px !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 46px !important;
+}
+
+.registration .design-component-instance-node {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  justify-content: center !important;
+  margin-bottom: -2.16px !important;
+  margin-top: -2.16px !important;
+}

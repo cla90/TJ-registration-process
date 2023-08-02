@@ -1,0 +1,125 @@
+.login-filled {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-filled .div-6 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  position: relative;
+  width: 390px;
+}
+
+.login-filled .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 30px;
+  position: absolute;
+  top: 132px;
+}
+
+.login-filled .text-wrapper-18 {
+  align-self: stretch;
+  color: var(--black80-base);
+  font-family: var(--heading-h3-font-family);
+  font-size: var(--heading-h3-font-size);
+  font-style: var(--heading-h3-font-style);
+  font-weight: var(--heading-h3-font-weight);
+  letter-spacing: var(--heading-h3-letter-spacing);
+  line-height: var(--heading-h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.login-filled .input-form-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 50px;
+  position: relative;
+  width: 330px;
+}
+
+.login-filled .form-6 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.login-filled .form-7 {
+  align-self: stretch !important;
+  height: 44px !important;
+  width: 100% !important;
+}
+
+.login-filled .text-wrapper-19 {
+  align-self: stretch;
+  color: var(--secondary50-base);
+  font-family: var(--14-semibold-font-family);
+  font-size: var(--14-semibold-font-size);
+  font-style: var(--14-semibold-font-style);
+  font-weight: var(--14-semibold-font-weight);
+  letter-spacing: var(--14-semibold-letter-spacing);
+  line-height: var(--14-semibold-line-height);
+  position: relative;
+  text-align: right;
+}
+
+.login-filled .button-primary-7 {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.login-filled .design-component-instance-node-3 {
+  flex: 1 !important;
+  white-space: unset !important;
+  width: unset !important;
+}
+
+.login-filled .text-input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.login-filled .text-wrapper-20 {
+  align-self: stretch;
+  color: var(--black-60);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.08px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.login-filled .button-ptimary-instance {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  width: 100% !important;
+}
+
+.login-filled .logo-3 {
+  left: 135px !important;
+  position: fixed !important;
+  top: 59px !important;
+}

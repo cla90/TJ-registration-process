@@ -1,0 +1,161 @@
+.screen-9 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-9 .registration-5 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  position: relative;
+  width: 390px;
+}
+
+.screen-9 .frame-14 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 30px;
+  position: absolute;
+  top: 132px;
+}
+
+.screen-9 .text-wrapper-34 {
+  align-self: stretch;
+  color: var(--black80-base);
+  font-family: var(--heading-h3-font-family);
+  font-size: var(--heading-h3-font-size);
+  font-style: var(--heading-h3-font-style);
+  font-weight: var(--heading-h3-font-weight);
+  letter-spacing: var(--heading-h3-letter-spacing);
+  line-height: var(--heading-h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.screen-9 .input-form-5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 50px;
+  position: relative;
+  width: 330px;
+}
+
+.screen-9 .form-14 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.screen-9 .text-input-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.screen-9 .form-15 {
+  align-self: stretch !important;
+  height: 44px !important;
+  width: 100% !important;
+}
+
+.screen-9 .text-wrapper-35 {
+  color: var(--dark-gray);
+  font-family: var(--12-regular-font-family);
+  font-size: var(--12-regular-font-size);
+  font-style: var(--12-regular-font-style);
+  font-weight: var(--12-regular-font-weight);
+  letter-spacing: var(--12-regular-letter-spacing);
+  line-height: var(--12-regular-line-height);
+  position: relative;
+  width: 315px;
+}
+
+.screen-9 .text-wrapper-36 {
+  align-self: stretch;
+  color: var(--dark-gray);
+  font-family: var(--12-regular-font-family);
+  font-size: var(--12-regular-font-size);
+  font-style: var(--12-regular-font-style);
+  font-weight: var(--12-regular-font-weight);
+  letter-spacing: var(--12-regular-letter-spacing);
+  line-height: var(--12-regular-line-height);
+  position: relative;
+}
+
+.screen-9 .button-primary-11 {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.screen-9 .button-outline-instance {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.screen-9 .text-input-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.screen-9 .text-wrapper-37 {
+  align-self: stretch;
+  color: var(--dark-gray);
+  font-family: var(--14-regular-font-family);
+  font-size: var(--14-regular-font-size);
+  font-style: var(--14-regular-font-style);
+  font-weight: var(--14-regular-font-weight);
+  letter-spacing: var(--14-regular-letter-spacing);
+  line-height: var(--14-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.screen-9 .button-ptimary-2 {
+  align-self: stretch !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  width: 100% !important;
+}
+
+.screen-9 .navbar-10 {
+  height: 56px !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 46px !important;
+}
+
+.screen-9 .navbar-11 {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  gap: 11px !important;
+  justify-content: space-around !important;
+  margin-bottom: -2.16px !important;
+  margin-top: -2.16px !important;
+}

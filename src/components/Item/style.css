@@ -1,0 +1,55 @@
+.item {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 3px 8px #4a556812;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 10px;
+  position: relative;
+  width: 94px;
+}
+
+.item .google-png {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.item .paragraph-container {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 47px;
+}
+
+.item .GOOGL {
+  align-self: stretch;
+  color: #2e3032;
+  font-family: var(--12-medium-font-family);
+  font-size: var(--12-medium-font-size);
+  font-style: var(--12-medium-font-style);
+  font-weight: var(--12-medium-font-weight);
+  letter-spacing: var(--12-medium-letter-spacing);
+  line-height: var(--12-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.item .element {
+  align-self: stretch;
+  color: var(--success50-base);
+  font-family: var(--10-regular-font-family);
+  font-size: var(--10-regular-font-size);
+  font-style: var(--10-regular-font-style);
+  font-weight: var(--10-regular-font-weight);
+  letter-spacing: var(--10-regular-letter-spacing);
+  line-height: var(--10-regular-line-height);
+  position: relative;
+  text-align: center;
+}

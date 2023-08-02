@@ -1,0 +1,1 @@
+export { ButtonPtimary } from "./ButtonPtimary";

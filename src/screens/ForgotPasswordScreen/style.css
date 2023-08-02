@@ -1,0 +1,90 @@
+.forgot-password-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.forgot-password-screen .forgot-password-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 844px;
+  position: relative;
+  width: 390px;
+}
+
+.forgot-password-screen .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 30px;
+  position: absolute;
+  top: 132px;
+}
+
+.forgot-password-screen .text-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 330px;
+}
+
+.forgot-password-screen .text-wrapper-21 {
+  align-self: stretch;
+  color: var(--black80-base);
+  font-family: var(--heading-h3-font-family);
+  font-size: var(--heading-h3-font-size);
+  font-style: var(--heading-h3-font-style);
+  font-weight: var(--heading-h3-font-weight);
+  letter-spacing: var(--heading-h3-letter-spacing);
+  line-height: var(--heading-h3-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.forgot-password-screen .text-wrapper-22 {
+  align-self: stretch;
+  color: var(--black-60);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.08px;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+}
+
+.forgot-password-screen .content-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 50px;
+  position: relative;
+  width: 330px;
+}
+
+.forgot-password-screen .form-8 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.forgot-password-screen .button-primary-8 {
+  align-self: stretch !important;
+  display: flex !important;
+  width: 100% !important;
+}
+
+.forgot-password-screen .logo-4 {
+  left: 135px !important;
+  position: fixed !important;
+  top: 59px !important;
+}
